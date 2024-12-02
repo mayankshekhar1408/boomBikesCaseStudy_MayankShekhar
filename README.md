@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Linear Regression performed and Model created on the Boombikes bike rental dataset for the IITB assignment.
 
 
 ## Table of Contents
@@ -8,45 +8,16 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The dataset is made ready for linear regression
+- Univariate and multivariate analysis done to find each independent variable significance and pair plots to see th ecorrelation between them.
+- We are trying to find the number of rentals issued from the company based on numerous independent values such as temperature, weather, humidity, holiday, etc.
+- The Boombikes bike rental dataset is being used.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- The R-square can as 84.5% which is quite good for a model.
+- There are many factors like temp, weather and days impacting the bike rentals in the US for boombikes.
+- Differnt correlation found between pair of variables during hte analysis.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@mayankshekhar1408] - feel free to contact me!
